@@ -10,9 +10,9 @@ The questions that  are answered to know the women’s ecommerce behaviour are,
 5.	Which categories have the highest return/cancellation rate?
 6.	What is the average order value for each category ?
 ## Data Source
-Source- Kaggle 
-Format- CSV
-Records- 120,378
+Source- Kaggle<br>
+Format- CSV<br>
+Records- 120,378<br>
 Columns- 24 
 
 ## Data Structure
@@ -31,12 +31,12 @@ This project provides a comprehensive analysis of women’s clothing orders on A
 ## Dashboard 
 ![Main Dashboard](https://github.com/meretimounika/Ecommerce-Sales-Analysis-/blob/main/Ecommerce%20Sales%20Dashboard.png)
 ## Recommendations
-•	Maintain or improve by negotiating with the 3rd party delivery service for customer satisfaction to assist the standard and expedited delivery type so as to decrease the cost of delivery to encourage more orders.
-•	Reduce cancellations through pre-order confirmations, better product images/descriptions, or offering easy exchanges.
-•	Expand marketing for larger sizes (3XL–6XL) by emphasizing inclusive sizing and offering targeted promotions and pricing strategy and keep the inventory stocked up for sizes S to XL.
-•	Stock up the inventory around the areas of highly urbanised and economically powerful states to do an even better expedited delivery.
+-	Maintain or improve by negotiating with the 3rd party delivery service for customer satisfaction to assist the standard and expedited delivery type so as to decrease the cost of delivery to encourage more orders.
+-	Reduce cancellations through pre-order confirmations, better product images/descriptions, or offering easy exchanges.
+-	Expand marketing for larger sizes (3XL–6XL) by emphasizing inclusive sizing and offering targeted promotions and pricing strategy and keep the inventory stocked up for sizes S to XL.
+-	Stock up the inventory around the areas of highly urbanised and economically powerful states to do an even better expedited delivery.
 
 ## Tools and Technologies
-Excel – for data cleaning  and filtering 
+Excel – for data cleaning  and filtering<br>
 Tableau – for charts and dashboards creation.
 
