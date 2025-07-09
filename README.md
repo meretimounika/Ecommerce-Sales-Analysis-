@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis on Shipment and Customer Behaviour 
+# Ecommerce Sales Analysis of Shipment and Customer Behaviour 
 ## Background
 This project analysis the **women’s clothing** order data from Amazon. As women’s are most spending population in the ecommerce, and this us to understand that segment a little more to take insightful decisions. This data is analyses category, shipment state, status, size. Amount etc to uncover sales analysis, product preference analysis, regional analysis, cancellation/ return analysis etc.
 ## Business Objectives 
