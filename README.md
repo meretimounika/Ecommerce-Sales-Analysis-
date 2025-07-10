@@ -8,7 +8,7 @@ The questions that  are answered to know the women’s ecommerce behaviour are,
 3.	Which product categories and sizes contribute the most to overall revenue?
 4.	Which states generate the order volumes?
 5.	Which categories have the highest return/cancellation rate?
-6.	What is the average order value for each category ?
+6.	What is the average price value for each category ?
 ## Data Source
 Source- Kaggle<br>
 Format- CSV<br>
@@ -21,8 +21,8 @@ Columns- 24
 This project provides a comprehensive analysis of women’s clothing orders on Amazon to understand customer behaviour, sales trends, and shipping performance. By examining over 120,000 records, it reveals key insights into preferred shipping methods, delivery outcomes, high-performing categories, and regional buying patterns. Expedited shipping dominates, and core sizes (S–XL) drive most sales. Sets and Kurtas lead in both revenue and return rates, while larger sizes show higher average value but lower volume. States like Maharashtra and Karnataka show strong demand. These insights help inform marketing, inventory, and logistics strategies for optimized ecommerce performance.
 ## Insights
 1.	Approximately 68% of the orders are shipped via Expedited service, indicating a strong customer preference for faster delivery options. And with 38% opting for standard delivery waiting period.
-2.	60% of orders are delivered to buyer successfully. 22% are delivered to buyer stating the dissatisfaction of customer and 14% are cancelled, possibly due to changes in customer decisions. The rest of the status are less than 2%. This whole proportions tells us that most of the items have been delivered with customer satisfaction.
-3.	Categories like Sets, Kurtas, and Western wear generate the highest overall revenue. Sizes S, M, L, XL account for the most sales volume, whereas 3XL to 6XL have the highest average order value, indicating higher prices and less sales.
+2.	60% of orders are delivered to buyer successfully. 22% are delivered to buyer and 14% are cancelled, possibly due to changes in customer decisions. The rest of the status are less than 2%. This whole proportions tells us that most of the items have been delivered successfully.
+3.	Categories like Sets, Kurtas, and Western wear generate the highest overall revenue. Sizes S, M, L, XL account for the most sales, whereas 3XL to 6XL have the highest average price, indicating higher prices and less sales.
 ![Category&Size Chart](https://github.com/meretimounika/Ecommerce-Sales-Analysis-/blob/main/Category%20and%20Size%20Preference%20Treemap.png)
 4.	States like Maharashtra, Karnataka, Tamil Nadu, Telangana, and Uttar Pradesh dominate order volumes. These are highly urbanized, economically active states. 
 5.	product category set has the highest cancellation/return rate with 40%. and kurtas having about 39%. Products like Western dresses and tops have a percentage  of 12% and 6% which Is a moderate to good indication.
